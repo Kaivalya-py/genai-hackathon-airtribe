@@ -1,2 +1,1 @@
 # genai-hackathon-airtribe
-hi
